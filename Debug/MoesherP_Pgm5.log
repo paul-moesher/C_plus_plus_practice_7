@@ -1,0 +1,3 @@
+﻿  MoesherP_Pgm5.cpp
+c:\users\paul\desktop\moesherp_pgm5\moesherp_pgm5.cpp(66): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MoesherP_Pgm5.vcxproj -> C:\Users\Paul\Desktop\MoesherP_Pgm5\Debug\MoesherP_Pgm5.exe
